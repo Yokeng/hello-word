@@ -1,2 +1,5 @@
-# hello-word
-just another repository
+# hello-word 
+
+hello everyone I reallly like myself.
+
+how about you?
